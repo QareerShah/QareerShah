@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001a,100:2b0a3d&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=38&fontColor=9b5de5&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=38&fontColor=D4AF37&animation=fadeIn" />
 </p>
 
-<h3 align="center">Full Stack Developer & AI Automation Builder</h3>
+<h3 align="center" style="color:#D4AF37;">
+Full Stack Developer & AI Automation Builder
+</h3>
 
-<p align="center">
+<p align="center" style="color:#D4AF37;">
 Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 </p>
 
