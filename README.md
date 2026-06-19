@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Qareer%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">Frontend Developer • AI Automation Builder • Next.js Specialist</h3>
+
 <h1 align="center" style="color:#7c3aed;">Hi 👋, I'm Qareer Shah</h1>
 
 <h3 align="center">Frontend Developer | AI Automation Builder | Next.js & TypeScript Lover</h3>
