@@ -1,46 +1,62 @@
+<h1 align="center" style="color:#7c3aed;">Hi 👋, I'm Qareer Shah</h1>
+
+<h3 align="center">Frontend Developer | AI Automation Builder | Next.js & TypeScript Lover</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Automation+Builder;Next.js+%7C+React+%7C+TypeScript;Building+Smart+Web+Apps+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&size=22&center=true&vCenter=true&width=600&lines=Frontend+Developer;Next.js+Enthusiast;AI+Automation+Builder;Clean+UI+Lover" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Qareer Shah
+## 🌙 About Me
 
-💻 Full Stack Developer & AI Automation Builder  
-⚡ I build scalable web apps, AI workflows, and chatbot systems using modern technologies  
-🎯 Focused on clean UI, performance, and real-world impact  
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on AI + Full Stack Web Projects  
-- 🌱 Learning Advanced Next.js, System Design & AI Integrations  
-- 💡 Passionate about building automation tools & smart digital products  
-- 🤝 Open to Freelance & Remote Opportunities  
+- 💻 I build modern and scalable web applications  
+- ⚡ Skilled in Next.js, TypeScript, Tailwind CSS  
+- 🤖 Exploring AI tools & automation systems  
+- 🎯 Focused on clean UI and performance  
 
 ---
 
-## ⚒️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github" />
-</p>
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=qareer-shah&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qareer-shah&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QareerShah&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QareerShah&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🛒 E-commerce Website (Next.js + Tailwind)
+- 🧠 AI Automation Experiments
+- 💼 Personal Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
 - LinkedIn: www.linkedin.com/in/qareer-shah 
-- Portfolio: YOUR LINK HERE  
-- Email: queensyeda16@gmail.com  
+- GitHub: https://github.com/QareerShah  
 
 ---
+
+⭐ *“Code is not just logic, it's creativity turned into reality.”*
