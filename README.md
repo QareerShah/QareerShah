@@ -4,18 +4,18 @@
 
 ---
 
-# 👋 Hi, I'm [Qareer Shah]
+# 👋 Hi, I'm Qareer Shah
 
 💻 Full Stack Developer & AI Automation Builder  
-⚡ I build scalable web apps, AI workflows, and chatbot systems  
-🎯 Focused on clean UI, performance & real-world impact  
+⚡ I build scalable web apps, AI workflows, and chatbot systems using modern technologies  
+🎯 Focused on clean UI, performance, and real-world impact  
 
 ---
 
 ## 🚀 About Me
-- 🔭 Working on AI + Web Development Projects  
-- 🌱 Learning Advanced Next.js & AI Integrations  
-- 💡 Building automation systems & smart apps  
+- 🔭 Currently working on AI + Full Stack Web Projects  
+- 🌱 Learning Advanced Next.js, System Design & AI Integrations  
+- 💡 Passionate about building automation tools & smart digital products  
 - 🤝 Open to Freelance & Remote Opportunities  
 
 ---
@@ -29,12 +29,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=qareer-shah&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qareer-shah&theme=tokyonight" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
+- LinkedIn: www.linkedin.com/in/qareer-shah 
+- Portfolio: YOUR LINK HERE  
+- Email: queensyeda16@gmail.com  
+
+---
