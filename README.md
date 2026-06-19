@@ -70,7 +70,7 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="www.linkedin.com/in/qareer-shah>
     <img src="https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/QareerShah">
