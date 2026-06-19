@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Qareer%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001a,100:2b0a3d&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=38&fontColor=9b5de5&animation=fadeIn" />
 </p>
 
 <h3 align="center">Full Stack Developer & AI Automation Builder</h3>
@@ -11,7 +11,7 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Automation+Builder;Next.js+%7C+React+%7C+TypeScript;Building+Smart+Digital+Systems;Clean+UI+%26+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9b5de5&size=24&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Automation+Builder;Next.js+%7C+React+%7C+TypeScript;Building+Smart+Digital+Systems;Clean+UI+%26+Scalable+Apps" />
 </p>
 
 ---
@@ -21,9 +21,10 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 > I build modern, scalable and intelligent digital products that combine full-stack development with AI automation.
 
 - 💻 Full Stack Developer focused on modern web apps  
-- ⚡ Working with Next.js, React & TypeScript  
-- 🤖 Building AI workflows, chatbots & automation systems  
-- 🎯 Passionate about clean UI and high-performance systems  
+- ⚡ Next.js, React & TypeScript specialist  
+- 🤖 AI workflows, chatbot integrations & automation builder  
+- 🎯 Passionate about scalable architecture & clean UI systems  
+- 🚀 Love turning ideas into real-world digital products  
 
 ---
 
@@ -37,6 +38,12 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 
 </p>
 
@@ -51,19 +58,12 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QareerShah&theme=react-dark" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
-- 🛒 **E-commerce Website** — Next.js + Tailwind + Sanity  
+- 🛒 **E-commerce Platform** — Next.js + Tailwind + CMS  
 - 🤖 **AI Chatbot System** — Automation + API Integrations  
-- 💼 **Portfolio Website** — Responsive modern UI  
+- 💼 **Portfolio Website** — Modern UI/UX design system  
+- ⚙️ **Automation Tools** — AI workflow-based solutions  
 
 ---
 
@@ -71,19 +71,19 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/QareerShah">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-2b0a3d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,100:12001a&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  ⭐ Building intelligent systems with clean code & creativity ⭐
+  ✨ Building intelligent systems with clean code, automation & creativity ✨
 </p>
