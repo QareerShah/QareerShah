@@ -83,7 +83,7 @@ Next.js · React · TypeScript · AI Workflows · Chatbot Integrations
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,100:12001a&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=120&section=footer"/>
 </p>
 
 <p align="center">
